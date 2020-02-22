@@ -27,11 +27,11 @@ Learning Algorithmic Trading using Python API
 
 # Online School #
 
-## <img src="https://149362230.v2.pressablecdn.com/wp-content/uploads/2018/08/coursera-social-logo.png" alt="COURSERA" height="53"/> COURSERA ##
+## <img src="https://149362230.v2.pressablecdn.com/wp-content/uploads/2018/08/coursera-social-logo.png" alt="COURSERA" height="53"/> ##
 
 [Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
-## <img src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png" alt="UDACITY" height="53"/> UDACITY ##
+## <img src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png" alt="UDACITY" height="53"/> ##
 
 [Artificial Intelligence for Trading Nanodegree Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/AI+for+Trading+Learning+Nanodegree+Program+Syllabus.pdf)
 
