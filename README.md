@@ -14,7 +14,7 @@ Learning Algorithmic Trading using Python API
 Quantopian provides **free** education, data, and tools so anyone can pursue quantitative finance
 
 
-## <a href="http://skillshare.com/"><img src="https://static.skillshare.com/uploads/users/6595003/user-image-small.png" alt="Skillshare" width="35"/> SKILLSHARE </a>##
+## <a href="http://skillshare.com/"><img src="https://static.skillshare.com/uploads/users/6595003/user-image-small.png" alt="Skillshare" width="35"/> SKILLSHARE</a> ##
 
 [Anthony Ng - Skillshare](https://www.skillshare.com/profile/Anthony-Ng/4926488):
 
