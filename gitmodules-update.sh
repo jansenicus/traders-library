@@ -1,2 +1,2 @@
-#!/bin/#!/usr/bin/env bash
+#!/bin/sh
 git submodule update --init --remote --force --recursive
