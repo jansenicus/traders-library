@@ -8,7 +8,7 @@ Learning Algorithmic Trading using Python API
 
 # Online Tutorials for Casual Smart Learners #
 
-## <img src="https://pbs.twimg.com/profile_images/875810914154369025/DXbh_xvW_400x400.jpg" alt="QUANTOPIAN" height="35"/> <a href="https://www.quantopian.com/home">QUANTOPIAN</a> ##
+## <a href="https://www.quantopian.com/home"><img src="https://pbs.twimg.com/profile_images/875810914154369025/DXbh_xvW_400x400.jpg" alt="QUANTOPIAN" height="35"/> QUANTOPIAN</a> ##
  Become an Expert in Quant Finance
  
 Quantopian provides **free** education, data, and tools so anyone can pursue quantitative finance
