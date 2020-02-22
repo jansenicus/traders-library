@@ -2,7 +2,7 @@
 Learning Algorithmic Trading using Python API
 
 # Jupyter Notebook #
-[Python-Oanda-V20.ipynb](notebooks/PyPython-Oanda-V20.ipynbthon-Oanda-V20.ipynb)
+- [NBViewer: Python-Oanda-V20.ipynb](https://nbviewer.jupyter.org/github/jansenicus/algorithmic-trading-classroom/blob/master/notebooks/Python-Oanda-V20.ipynb)
 
 # Video Tutorials #
 
