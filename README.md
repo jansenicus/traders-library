@@ -6,7 +6,7 @@ Learning Algorithmic Trading using Python API
 - [NBViewer: Python-Oanda-V20.ipynb](https://nbviewer.jupyter.org/github/jansenicus/algorithmic-trading-classroom/blob/master/notebooks/Python-Oanda-V20.ipynb)
 
 
-# Online Tutorials #
+# Online Tutorials for Casually Committed Learners #
 
 ## <img src="https://static.skillshare.com/uploads/users/6595003/user-image-small.png" alt="Skillshare" width="35"/> SKILLSHARE ##
 
@@ -25,7 +25,10 @@ Learning Algorithmic Trading using Python API
 [Mayank Rasu - Udemy](https://www.udemy.com/user/mayank-rasu/)
 - [Algorithmic Trading & Quantitative Analysis Using Python](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/)
 
-# Online School #
+[TOPIC: Algorithmic Trading (more than 60 lessons offered)](https://www.udemy.com/topic/algorithmic-trading/)
+
+
+# Online School for Formally Committed Learners #
 
 ## <img src="https://149362230.v2.pressablecdn.com/wp-content/uploads/2018/08/coursera-social-logo.png" alt="COURSERA" height="53"/> ##
 
