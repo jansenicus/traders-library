@@ -8,6 +8,12 @@ Learning Algorithmic Trading using Python API
 
 # Online Tutorials for Casual Smart Learners #
 
+## <img src="https://pbs.twimg.com/profile_images/875810914154369025/DXbh_xvW_400x400.jpg" alt="QUANTOPIAN" height="35"/> <a href="https://www.quantopian.com/home">QUANTOPIAN</a> ##
+ Become an Expert in Quant Finance
+ 
+Quantopian provides **free** education, data, and tools so anyone can pursue quantitative finance
+
+
 ## <img src="https://static.skillshare.com/uploads/users/6595003/user-image-small.png" alt="Skillshare" width="35"/> SKILLSHARE ##
 
 [Anthony Ng - Skillshare](https://www.skillshare.com/profile/Anthony-Ng/4926488):
@@ -41,3 +47,5 @@ Learning Algorithmic Trading using Python API
 ## <img src="https://wqu.org/assets/wqu-logo-color-b6866efa16ba16fcf606c900d4c6c82da408b3c9156faa473661b7bb5426032a.png" alt="WORLD QUANT UNIVERSITY" height="53"/> ##
 
 [MSc in Financial Engineering](https://wqu.org/programs/mscfe)
+
+ The largest financial engineering program in the world is **100% online and tuition-free for everyone.**
