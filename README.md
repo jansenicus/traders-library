@@ -1,9 +1,17 @@
 # Algorithmic Trading Classroom
 Learning Algorithmic Trading using Python API
 
+
+
+
+
 # <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" height="35"/> Notebook #
 
 - [NBViewer: Python-Oanda-V20.ipynb](https://nbviewer.jupyter.org/github/jansenicus/algorithmic-trading-classroom/blob/master/notebooks/Python-Oanda-V20.ipynb)
+
+
+
+
 
 # Video Tutorials #
 
