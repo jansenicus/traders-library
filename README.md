@@ -37,7 +37,8 @@ Learning Algorithmic Trading using Python API
 
 [Artificial Intelligence for Trading Nanodegree Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/AI+for+Trading+Learning+Nanodegree+Program+Syllabus.pdf)
 
-## <img src="https://wqu.org/assets/wqu-logo-color-b6866efa16ba16fcf606c900d4c6c82da408b3c9156faa473661b7bb5426032a.png" alt="WORLD QUANT UNIVERSITY" height="53"/>WORLD QUANT UNIVERSITY ##
+## <img src="https://wqu.org/assets/wqu-logo-color-b6866efa16ba16fcf606c900d4c6c82da408b3c9156faa473661b7bb5426032a.png" alt="WORLD QUANT UNIVERSITY" height="53"/> ##
+
 [MSc in Financial Engineering](https://wqu.org/programs/mscfe)
 
 
