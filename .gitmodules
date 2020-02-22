@@ -1,5 +1,5 @@
 [submodule "networking"]
-	path = networking
+	path = networking/hosts-address-collection
 	url = https://github.com/jansenicus/hosts-address-collection.git
 [submodule "video-downloader"]
 	path = video-downloader
