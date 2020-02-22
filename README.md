@@ -6,6 +6,8 @@ Learning Algorithmic Trading using Python API
 
 # Video Tutorials #
 
+## <img src="https://static.skillshare.com/uploads/users/6595003/user-image-small.png" alt="Skillshare" width="35"/> SKILLSHARE ##
+
 [Anthony Ng - Skillshare](https://www.skillshare.com/profile/Anthony-Ng/4926488):
 
 - [Python Algo Trading: FX Trading with Oanda](https://www.skillshare.com/classes/Python-Algo-Trading-FX-Trading-with-Oanda/2024083035) 
@@ -14,6 +16,8 @@ Learning Algorithmic Trading using Python API
 
 - [Algorithmic Trading Using OANDA API](https://www.skillshare.com/classes/Algorithmic-Trading-Using-OANDA-API/1413782879)
 - [Algorithmic Trading & Quantitative Analysis Using Python](https://www.skillshare.com/classes/Algorithmic-Trading-Quantitative-Analysis-Using-Python/5561706)
+
+## <img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" alt="UDEMY" height="35"/> ##
 
 [Mayank Rasu - Udemy](https://www.udemy.com/user/mayank-rasu/)
 - [Algorithmic Trading & Quantitative Analysis Using Python](https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/)
