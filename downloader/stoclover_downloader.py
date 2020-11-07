@@ -23,10 +23,7 @@ class stoclover():
 
     def directory(self):
         print(self.directory)
-
-    def last_workingday(self):
-        print(self.last_workingday)
-        
+      
     def visit(self):
         from bs4 import BeautifulSoup
         from requests import get
